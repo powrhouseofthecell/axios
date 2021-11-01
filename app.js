@@ -1,3 +1,4 @@
+// import axios from 'axios'; // won't work in browsers
 const get = document.getElementById('get');
 const post = document.getElementById('post');
 const sim = document.getElementById('sim');
